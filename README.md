@@ -1,2 +1,2 @@
-# Curso-de-Pyhton---Corso-em-V-deo
-Exercícios do curso de Python do Curso em Vídeo, ministrado pelo professor Gustavo Guanabara.
+# CURSO_EM_VIDEO_Pyhton
+Exercícios do curso de Python do Curso em Vídeo, Mundos 1 a 3, ministrado pelo professor Gustavo Guanabara.
